@@ -11,9 +11,9 @@ from email.MIMEText import MIMEText
 from email.MIMEBase import MIMEBase
 from email import encoders
 
-sender = 'example@gmail.com'
-password = 'abcd1234'
-receiver = 'example@gmail.com'
+sender = 'anoopc9899@gmail.com'
+password = 'xxxxxxxxx'
+receiver = 'reciever@gmail.com'
 
 DIR = './Database/'
 FILE_PREFIX = 'image'
